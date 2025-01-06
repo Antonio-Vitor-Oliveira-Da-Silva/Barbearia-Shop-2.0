@@ -1,2 +1,2 @@
-alerta("Bem-Vindo(a) à Barbearia Johnny");
+alert("Bem-Vindo(a) à Barbearia Johnny");
 AOS.init();
